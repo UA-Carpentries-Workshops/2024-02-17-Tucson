@@ -87,7 +87,7 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
-<p><h4><center><strong>Apply for the workshop at <a href="https://bit.ly/3NAaaGi" target='blank'>https://bit.ly/3NAaaGi</a>.</strong></center></h4></p>
+<p><h4><center><strong>Apply for the workshop at <a href="https://bit.ly/476LJXY" target='blank'>https://bit.ly/476LJXY</a>.</strong></center></h4></p>
 
 <h2 id="general">General Information</h2>
 

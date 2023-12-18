@@ -450,27 +450,24 @@ The lesson taught in this workshop is being piloted and a precise schedule is ye
 
 <div class="row">
 <div class="col-md-6">
-    <h3 id="syllabus-python">Analyse scientific data with Python</h3>
-    <ul>
-      <li>Use libraries</li>
-      <li>Work with arrays</li>
-      <li>Read and plot data</li>
-      <li>Create and use functions</li>
-      <li>Use loops and conditionals</li>
-      <li>Use Python from the command line</li>
-      <li>Defensive programming</li>
-    </ul>
+    <h3 id="syllabus-r">Analyse data with R</h3>
+        <ul>
+	    <li>Work with vectors and data frames</li>
+	    <li>Read and plot data</li><li>Create and use functions</li>
+	    <li>Create loops and conditionals</li>
+		<li>Use R from the command line</li>
+	  </ul>
 	  <u>Resources:</u>
 	  <ul>
-		  <li><a href="{{site.swc_pages}}/python-novice-gapminder">Python Lessons</a></li>
-		  <li><a href="{{site.swc_pages}}/python-novice-gapminder/reference">Python Quick Reference</a></li>
-                  <li><a href="https://www.codecademy.com/learn/python" target="_blank">Codecademy: Interactive Python practice lessons</a></li>
-		  <li><a href="http://rosalind.info/problems/list-view/?location=python-village" target="_blank">Rosalind Python Bioinformatics Practice</a></li>
-		  <li><a href="https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.mz7KeNQ" target="_blank">Jupyter Notebook tutorial</a></li>
-		  <li><a href="https://plot.ly/python/" target="_blank">Interactive plotting with Plotly (available for R and for Python)</a></li>
-
-
-    </ul>
+		  <li><a href="{{site.swc_pages}}/r-novice-gapminder">R Lessons</a></li>
+		  <li><a href="{{site.swc_pages}}/r-novice-gapminder/reference">R Quick Reference</a></li>
+		  <li><a href="https://www.rdocumentation.org/" target="_blank">R documentation</a></li>
+		  <li><a href="http://blog.moertel.com/posts/2006-01-20-wondrous-oddities-rs-function-call-semantics.html" target="_blank">R function call Semantics</a></li>
+		  <li><a href="https://www.r-bloggers.com/" target="_blank">R News and Tutorials contributed by over 600 R Bloggers</a></li>
+		  <li><a href="http://rmarkdown.rstudio.com/" target="_blank">R Markdown Site/Docs</a></li>
+		  <li><a href="https://www.tutorialspoint.com/r/r_operators.htm" target="_blank">Tutorial: R Operators</a></li>
+		  <li><a href="https://github.com/OHI-Science/ohicore/issues/104" target="_blank">Instructions to fix password error when pushing from RStudio</a></li>
+	  </ul>
   </div>
 </div>
 

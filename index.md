@@ -455,7 +455,6 @@ The lesson taught in this workshop is being piloted and a precise schedule is ye
 	    <li>Work with vectors and data frames</li>
 	    <li>Read and plot data</li><li>Create and use functions</li>
 	    <li>Create loops and conditionals</li>
-		<li>Use R from the command line</li>
 	  </ul>
 	  <u>Resources:</u>
 	  <ul>
